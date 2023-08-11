@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  web:
+    image: "mm18/se331-lab06-3:latest"
+    ports:
+      - 8001:80
